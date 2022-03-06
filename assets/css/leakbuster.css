@@ -1,0 +1,53 @@
+.navbar {
+	background-color: #660724;
+	color: #fff;
+	height: 100px;
+}
+
+footer {
+	background-color: #616161;
+	color: #fff;
+	height: 90px;
+	padding-top: 20px;
+	margin-top: 40px;
+}
+
+.browser-icons img.disabled {
+	filter: grayscale(100%);
+}
+
+#xsleak-results code {
+	color: #fff;
+	background-color: #71abff;
+    padding: 2px;
+}
+
+#xsleak-suggestions code {
+	background-color: #ffe493;
+	color: #000;
+	padding: 2px;
+}
+
+#xsleak-suggestions a>code {
+	color: inherit;
+}
+
+#xsleak-suggestions ul li {
+	margin-bottom: 10px;
+}
+
+#xsleak-results a {
+	color: #fff;
+}
+
+.navbar .navbar-brand a {
+	text-decoration: none;
+}
+
+.navbar a {
+	color: #fff;
+}
+
+.bg-success-light {
+	background-color: #5cec8f;
+}
